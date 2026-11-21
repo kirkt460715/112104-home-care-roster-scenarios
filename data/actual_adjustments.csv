@@ -1,0 +1,6 @@
+reference,day,worker,site,status
+L1,2026-10-09,W7,S,served
+L2,2026-10-09,W8,W,released
+L2,2026-10-10,W8,S,contact_failed
+T1,2026-10-13,W4,S,cert_delayed
+T1,2026-10-16,W4,S,cert_granted

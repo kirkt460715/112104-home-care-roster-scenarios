@@ -1,0 +1,8 @@
+event,kind,subject,worker,site,starts,start_minute,end_minute,state,recorded
+A001,visit,F12600,W1,N,2026-10-05,490,590,occupied,2026-10-02
+A002,visit,F12600,W2,N,2026-10-05,490,590,occupied,2026-10-02
+A003,visit,F12811,W3,S,2026-10-07,515,640,occupied,2026-10-02
+A004,loan,L1,W7,S,2026-10-09,480,695,occupied,2026-10-07
+A005,course,T1,W4,S,2026-10-06,480,640,occupied,2026-10-02
+A006,loan,L2,W8,W,2026-10-09,480,690,occupied,2026-10-02
+A006,loan,L2,W8,W,2026-10-09,480,690,cancelled,2026-10-07
